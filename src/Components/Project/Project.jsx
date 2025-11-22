@@ -127,7 +127,7 @@ const Project = () => {
   const projects = [
     {
       image: projectImg1,
-      title: "Streame-Vibe",
+      title: "Ride-on R15 V4",
       description: "A modern OTT platform website with responsive design and seamless user experience. Features include video streaming, user profiles, and content categorization.",
       tags: ["HTML", "CSS", "Tailwind", "JavaScript", "OTT Platform" ,"Responsive"],
       demoLink: "https://shadinosd.github.io/The-Best-Online-Bike-Shop-Bikeroom/",
@@ -136,7 +136,7 @@ const Project = () => {
     },
     {
       image: projectImg2,
-      title: "Bank App",
+      title: "Hockeys Club",
       description: "A professional banking application with modern UI/UX design. Includes features like account management, transaction history, and financial dashboard.",
       tags: ["HTML", "CSS", "Tailwind", "JavaScript", "Banking","Responsive"],
       demoLink: "https://shadinosd.github.io/Hockey-club-/",
@@ -145,7 +145,7 @@ const Project = () => {
     },
     {
       image: projectImg3,
-      title: "Agrios Website",
+      title: "Happy Travel",
       description: "An agricultural website showcasing modern farming solutions. Features responsive design, product catalog, and service information.",
       tags: ["React", "Tailwind", "JavaScript", "Agriculture", "Responsive"],
       demoLink: "https://shadinosd.github.io/Happy-Travel/",

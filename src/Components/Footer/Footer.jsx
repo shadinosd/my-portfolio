@@ -50,7 +50,7 @@ const Footer = () => {
     },
     {
       icon: <FaTwitter size={18} />,
-      url: "https://x.com/heymorshed1",
+      url: "https://x.com/BiswasShad44090",
       gradient: "from-blue-400 to-cyan-500",
       name: "Twitter"
     },
@@ -62,7 +62,7 @@ const Footer = () => {
     },
     {
       icon: <FaLinkedin size={18} />,
-      url: "https://www.linkedin.com/in/heymorshed/",
+      url: "https://www.linkedin.com/in/shadin/",
       gradient: "from-blue-700 to-blue-800",
       name: "LinkedIn"
     },
