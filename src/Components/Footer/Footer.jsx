@@ -62,7 +62,7 @@ const Footer = () => {
     },
     {
       icon: <FaLinkedin size={18} />,
-      url: "https://www.linkedin.com/in/shadin/",
+      url: "https://www.linkedin.com/in/shadin-biswas-559719392/",
       gradient: "from-blue-700 to-blue-800",
       name: "LinkedIn"
     },
